@@ -1,0 +1,7 @@
+# TITULO: VERIFICA PARENTESES FECHADOS
+# AUTOR: WALYSSON DOS REIS
+# DATA: 01/10/2015
+
+l=[]
+frase=list(input("DIGITE EXPRESSÃO:"))
+print(frase)
